@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  color: blueviolet;
+}
+
+.navigation-links {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+.navigation-links a {
+  margin: 20px;
+}
+
+.link {
+  border: 1px solid blueviolet;
+  box-shadow: 2px 2px;
+  background: blueviolet;
+  color: white;
+  border-radius: 4px;
+  padding: 15px 10px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
